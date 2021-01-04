@@ -1,6 +1,7 @@
 
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sesame55&theme=vue-dark) -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sesame55&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sesame55&theme=vue-dark&layout=compact)
 
